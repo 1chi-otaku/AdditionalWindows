@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdditionalWindows", "AdditionalWindows\AdditionalWindows.csproj", "{EC29D813-DB73-494F-B0DA-0E7503E84904}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HM2", "HM2\HM2.csproj", "{D3D5289A-85B8-4AC3-B278-8341665B3D9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HM3", "HM3\HM3.csproj", "{0B6A4EBE-C5E1-405F-A55A-2BB350F14544}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC29D813-DB73-494F-B0DA-0E7503E84904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC29D813-DB73-494F-B0DA-0E7503E84904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC29D813-DB73-494F-B0DA-0E7503E84904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC29D813-DB73-494F-B0DA-0E7503E84904}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3D5289A-85B8-4AC3-B278-8341665B3D9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3D5289A-85B8-4AC3-B278-8341665B3D9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3D5289A-85B8-4AC3-B278-8341665B3D9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3D5289A-85B8-4AC3-B278-8341665B3D9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B6A4EBE-C5E1-405F-A55A-2BB350F14544}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B6A4EBE-C5E1-405F-A55A-2BB350F14544}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B6A4EBE-C5E1-405F-A55A-2BB350F14544}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B6A4EBE-C5E1-405F-A55A-2BB350F14544}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95DE6D0B-7E53-4FE3-9EB6-940542F2070C}
+	EndGlobalSection
+EndGlobal
